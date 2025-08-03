@@ -245,7 +245,7 @@ async def error_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 def main():
     init_db()
     
-    application = Application.builder().token("8288047174:AAEJ4EYtA3irKT-0VbqenyTyaU7xTZzXVzo").build()
+    application = Application.builder().token("").build()
     
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CommandHandler("help", help_command))
@@ -280,4 +280,5 @@ def main():
     application.run_polling()
 
 if __name__ == '__main__':
+
     main()
