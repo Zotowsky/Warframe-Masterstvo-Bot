@@ -1,5 +1,5 @@
 Warframe Progress Tracker Bot
-https://static.wikia.nocookie.net/warframe/images/0/00/Warframe_Logo.png
+[https://static.wikia.nocookie.net/warframe/images/0/00/Warframe_Logo.png](https://avatars.mds.yandex.net/i?id=3f732475cc2e59e39aee146bde8162a0_l-5339694-images-thumbs&n=13)
 
 Телеграм-бот для отслеживания прогресса прокачки оружия и варфреймов в игре Warframe.
 
